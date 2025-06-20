@@ -1,2 +1,2 @@
-# synk-test
-This is repo to test Synk features and functionalities
+# snyk-test
+This is repo to test Snyk features and functionalities
